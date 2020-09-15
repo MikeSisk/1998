@@ -1,0 +1,10 @@
+
+    P { margin-top: 0pt; 
+	text-indent : 0.2in;
+	font-family: Verdana, Sans-serif}
+
+    P.copy {  font-color: #5B171A;
+              font-size: smaller}
+ 
+    p.marginnote { background-color: #E0E0E0 }
+    p.paperonly { background-color: #E0E0E0 }
